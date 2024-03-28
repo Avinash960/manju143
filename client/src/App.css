@@ -1,0 +1,45 @@
+label{
+  width: 200px;
+  display:inline-block;
+  padding-bottom: 30px;
+  color: aliceblue;
+  font-size: 1.5rem;
+
+
+}
+.sign{
+  padding: 20px;
+  display: inline-block;
+  width:400px;
+  background-color: rgb(239, 111, 154);
+  border-radius: 20px;
+  border: 2px solid black;
+  margin-left: 35%;
+  margin-top: 80px;
+  background-image: url(https://iphoneswallpapers.com/wp-content/uploads/2024/02/Books-with-Flowers-iPhone-Wallpaper-HD-768x1365.jpg);
+}
+h1{
+  text-align: center;
+  color: chocolate;
+}
+body{
+  background-image: url(https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.login{
+  padding: 20px;
+  background-color:rgb(87, 65, 65);
+  width: 400px;
+  height: 100px;
+  margin-left: 35%;
+  margin-top: 250px;
+  border-radius: 20px;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+nav{
+  background-color: darkorange;
+  display: flex;
+  justify-content: space-evenly;
+}
